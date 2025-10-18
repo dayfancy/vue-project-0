@@ -1,10 +1,10 @@
 <script setup>
-import Emp from "./views/Emp.vue";
+import Ep from "./views/Ep.vue";
 </script>
 
 <template>
   <div id="app">
-    <Emp />
+    <Ep />
   </div>
 </template>
 
